@@ -71,7 +71,7 @@ body {
 
 .letter .text {
     font-family: Arial, sans-serif;
-    font-size: 4.1px;
+    font-size: 4px;
     color: var(--text-color);
     text-align: center;
 }
