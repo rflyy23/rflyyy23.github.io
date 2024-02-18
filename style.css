@@ -1,12 +1,12 @@
 :root {
  --primary: #fff;
- --bg-color: rgb(5, 53, 61);
+ --bg-color: rgb(255, 77, 166);
  --bg-envelope-color: #f5edd1;
  --envelope-tab: #ecdeb8;
  --envelope-cover: #e6cfa7;
  --shadow-color: rgba(0, 0, 0, 0.2);
  --text-color: #444;
- --heart-color: rgb(252, 8, 231);
+ --heart-color: #ff0000;
 }
 
 body {
@@ -70,8 +70,8 @@ body {
 }
 
 .letter .text {
-    font-family: Comic Sans MS, sans-serif;
-    font-size: 4.1px;
+    font-family: Arial, sans-serif;
+    font-size: 4.6px;
     color: var(--text-color);
     text-align: center;
 }
